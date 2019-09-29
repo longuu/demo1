@@ -1,3 +1,4 @@
+#ssssss
 docker run --name gogs -v /gogs:/data -p 10022:22 -p 10080:3000 gogs/gogs
 
 
